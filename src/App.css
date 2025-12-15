@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.nav-link {
+  @apply text-white lg:mx-6 hover:text-green-600;
+}
